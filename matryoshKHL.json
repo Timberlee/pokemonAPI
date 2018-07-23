@@ -1,15 +1,12 @@
 {
   "KHL" : {
     "West" : { 
-      "Bobrov" : ["Dinamo R", "HC Dynamo M", "Jokerit", "SKA", "Severstal", "Spartak"];
-      "Tarasov" : ["CSKA", "Dinamo Mn", "HC Sochi", "Lokomotiv", "Slovan", "Vityaz"];
+      "Bobrov" : {["Dinamo R", "HC Dynamo M", "Jokerit", "SKA", "Severstal", "Spartak"]};
+      "Tarasov" : {["CSKA", "Dinamo Mn", "HC Sochi", "Lokomotiv", "Slovan", "Vityaz"]};
      }
      "East" : {
-      "Kharlamov" : ["Ak Bars", "Avtomobilist", "Metallurg Mg", "Neftekhimik", "Torpedo", "Traktor"];
-      "Chernyshev" : ["Admiral", "Amur", "Avangard", "Barys", "Kunlun RS", "Salavat Yulaev", "Sibir"];
+      "Kharlamov" : {["Ak Bars", "Avtomobilist", "Metallurg Mg", "Neftekhimik", "Torpedo", "Traktor"]};
+      "Chernyshev" : {["Admiral", "Amur", "Avangard", "Barys", "Kunlun RS", "Salavat Yulaev", "Sibir"]};
       }
    }
 }
-       
-    
-    
